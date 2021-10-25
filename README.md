@@ -4,11 +4,11 @@
 
 ## Habilidades
 
-- DBMS:              Oracle (PL-SQL), SQL Server (T-SQL), MySQL, PostgreSQL, etc.
-- Languages:         PL-SQL, Java, JavaScript, SQL, C#, VB.Net, VB6.0
+- DBMS:              Oracle (PL-SQL), SQL Server (T-SQL), MySQL, PostgreSQL, Firebase.
+- Languages:         PL-SQL, Java, JavaScript, TypeScript, SQL, C#, VB.Net, VB6.0
 - Reports:           JasperReports - IReports, ActiveReports, CrystalReports
 - Operating Systems: Windows - Linux
-- Web:               Angular, JQuery, JavaScript
+- Web:               Angular, JQuery, JavaScript, TypeScript
 
 <p align="center">
   <a href="mailto:esteban8705@gmail.com" target="blank">

@@ -10,9 +10,14 @@
 - Operating Systems: Windows - Linux
 - Web:               Angular, JQuery, JavaScript
 
-## Contacto
-- 📫 email: esteban8705@gmail.com
-- Twitter: <a href="https://twitter.com/jaestebang">@jaestebang</a>
+<p align="center">
+  <a href="mailto:esteban8705@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/gmail.svg" alt="esteban8705@gmail.com" height="24px" width="24px" />
+  </a>
+  <a href="https://twitter.com/jaestebang" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/twitter.svg" alt="jaestebang" height="24px" width="24px" />
+  </a>
+</p>
 
 <!---
 jaestebang/jaestebang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

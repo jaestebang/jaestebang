@@ -4,11 +4,16 @@ Results-Driven Senior Full Stack Developer | Backend Specialist | 15+ years craf
 
 ## Technologies
 
-- DBMS:              Oracle (PL-SQL), SQL Server (T-SQL), MySQL, PostgreSQL, Firebase.
-- Languages:         PL-SQL, Java, JavaScript, TypeScript, SQL, C#, VB.Net, VB6.0
-- Reports:           JasperReports - IReports, ActiveReports, CrystalReports
+Tools - Skills:
+
+- DBMS: Oracle (PL-SQL), SQL Server (T-SQL), MySQL, PostgreSQL, Firebase, Redis
+
+- Languages - Frameworks: PL-SQL, Java, Spring Boot, JavaScript, TypeScript, SQL, C#, VB.Net
+
 - Operating Systems: Windows - Linux
-- Web:               Angular, JQuery, JavaScript, TypeScript
+Web: Angular, JQuery, JavaScript, TypeScript
+
+- Version Control Software Tools: GIT - SVN
 
 <p align="center">
   <a href="mailto:esteban8705@gmail.com" target="blank">

@@ -4,8 +4,6 @@ Results-Driven Senior Full Stack Developer | Backend Specialist | 15+ years craf
 
 ## Technologies
 
-Tools - Skills:
-
 - DBMS: Oracle (PL-SQL), SQL Server (T-SQL), MySQL, PostgreSQL, Firebase, Redis
 
 - Languages - Frameworks: PL-SQL, Java, Spring Boot, JavaScript, TypeScript, SQL, C#, VB.Net

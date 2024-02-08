@@ -1,8 +1,8 @@
-# Johan Alexis Esteban Gelvez
-- Analista – desarrollador de software
-- Diseño y control de sistemas de indicadores / aplicaciones para compañías de seguros, entre otros. 
+# Johan Esteban
 
-## Habilidades
+Results-Driven Senior Full Stack Developer | Backend Specialist | 15+ years crafting scalable applications with Spring Boot, Java, Angular, and TypeScript  | Oracle programmer expert | Open to Collaborations.
+
+## Technologies
 
 - DBMS:              Oracle (PL-SQL), SQL Server (T-SQL), MySQL, PostgreSQL, Firebase.
 - Languages:         PL-SQL, Java, JavaScript, TypeScript, SQL, C#, VB.Net, VB6.0
